@@ -5,3 +5,4 @@
 <img src="https://raw.githubusercontent.com/TheNxtgenBoy/Blury_Wallpapers/main/images/blur.png" width=200>
 
 ## Now Your Wallpaper Is Ready
+<img src="https://raw.githubusercontent.com/TheNxtgenBoy/Blury_Wallpapers/main/images/screen.png" height=200>
